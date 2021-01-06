@@ -1,6 +1,8 @@
 {
   "name": "re-export-override-demo",
   "version": "0.1.0",
+  "description": "demo for es6 re-export and override any of them",
+  "keywords": [ "es6", "re-export", "import", "javascript", "typescript", "es2015" ],
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
